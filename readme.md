@@ -9,3 +9,5 @@ Se observa en la noticia buenos contenidos en html, como inserción de imágenes
 2º Insertar párrafos, listas e imágenes.
 3º formatear párrafo e insertar epígrafes.
 4º insertar la tabla de las categorías con los sueldos.
+
+Se editaron pequeñas cosas (comentadas en el codigo) y la tabla principal, no esta completa al 100%, solo se copiaron las primeras columnas
